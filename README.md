@@ -27,7 +27,7 @@
 | Creating an Shortcut. | Shows how to create a shortcut to run inventory.py desktop. |
 | Stored external.      | Shows the database recorded in .txt.                        |
 | Menu (1 to 7).        | Displays all options available to the user.                 |
-| Credits.              | Method and materials used.                                  |
+| Reference and Credits.| Method and materials used.                                  |
 
 
 ---
@@ -142,7 +142,7 @@ Closes the program.
 
 ---
 
-### 5) Reference.
+### 5) Reference and Credits.
 
 Task performed by software engineering student Eleandro S. Joaquim, using a task<br /> 
 model from the Bootcamp [HyperionDev](hyperiondev.com) course.
